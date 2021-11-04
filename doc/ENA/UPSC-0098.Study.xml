@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STUDY_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.study.xsd">
+ <STUDY alias="UPSC-0098" center_name="UPSC">
+  <DESCRIPTOR>
+   <STUDY_TITLE>Effect of light quality in spruce and pine</STUDY_TITLE>
+   <STUDY_TYPE existing_study_type="RNASeq"/>
+   <STUDY_ABSTRACT>Scots pine and Norway Spruce are two main economically important tree species in Sweden. These two conifer species have contrasting characters with reference to response to shade: pine is shade intolerant while spruce is shade tolerant, therefore pine hypocotyls grow taller in shade as compared to sun while spruce hypocotyls show similar growth under shade and sun. Previous studies have described the ecotypes related to photoperiod and light spectra in forest trees and the involvement of light spectra in local adaptation has also been documented, yet molecular basis of response to shade is poorly understood so far. Transcriptome sequencing would allow identifying vital genes underlying the mechanism referring to the adaptation to the light quality, which would facilitate to comprehend whether the southern trees grown in the northern latitudes will be able to adapt to the light conditions prevailing in the north and gain biomass; or will they suffer due to light quality or light intensity and day length in the north. Thus this study will throw light on an area of prime importance relevant to the forest industry in Sweden.</STUDY_ABSTRACT>
+  </DESCRIPTOR>
+ </STUDY>
+</STUDY_SET>

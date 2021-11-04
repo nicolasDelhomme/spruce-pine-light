@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="receipt.xsl"?>
+<RECEIPT receiptDate="2017-02-27T12:59:40.846Z" submissionFile="UPSC-0100.Submission.xml" success="true"><PROJECT accession="PRJEB19683" alias="UPSC-0100" status="PRIVATE" holdUntilDate="2019-02-26Z"/><SUBMISSION accession="ERA828029" alias="UPSC-0100"/><MESSAGES><INFO>Submission has been committed.</INFO></MESSAGES><ACTIONS>ADD</ACTIONS><ACTIONS>HOLD</ACTIONS></RECEIPT>
