@@ -1,0 +1,12 @@
+{
+    "input": "/mnt/picea/home/fai/git/spruce-pine-light/doc/nf_samplesheet_pine.csv",
+    "outdir": "analysis/pine/nfcoreResult",
+    "fasta": "/mnt/reference/Pinus-sylvestris/v1.0/fasta/Pinsy01_chromosomes_and_unplaced.fasta.gz",
+    "gff": "/mnt/reference/Pinus-sylvestris/v1.0/gff3/Pinsy01_240308_at01_all.gff.gz",
+    "transcript_fasta": "/mnt/reference/Pinus-sylvestris/v1.0/fasta/Pinsy01_240308_at01_all_mRNA.fa.gz",
+    "salmon_index": "/mnt/reference/Pinus-sylvestris/v1.0/indices/salmon/Pinsy01_240308_at01_all_mRNA_without-decoy_salmon-version-1-dot-10-dot-0",
+    "remove_ribo_rna": true,
+    "pseudo_aligner": "salmon",
+    "extra_salmon_quant_args": "--dumpEq --numGibbsSamples 30 --gcBias --seqBias --posBias",
+    "skip_alignment": true
+}
