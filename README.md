@@ -13,4 +13,4 @@ Article DOI: https://doi.org/10.1371/journal.pone.0219272
 
 Data ENA accession: https://www.ebi.ac.uk/ena/browser/view/PRJEB19683?show=component-projects
 
-Zenodo code repository DOI:
+[![Zenodo code repository DOI](https://zenodo.org/badge/424543218.svg)](https://doi.org/10.5281/zenodo.5644865)
